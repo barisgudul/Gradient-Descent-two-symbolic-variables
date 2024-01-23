@@ -1,7 +1,7 @@
 import sympy as sp
 
 # Define symbolic values
-x_1, x_2, alfa = sp.symbols('x_1 x_2 alpha')
+x_1, x_2, alpha = sp.symbols('x_1 x_2 alpha')
 
 #Define the function
 f = x_1**2 + 6*x_2**2 + x_1*x_2
