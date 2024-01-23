@@ -22,3 +22,4 @@ License
 This project is licensed under the MIT License.
 
 Note: This project is designed for those who want to understand and apply the gradient descent method with a simple example.
+
